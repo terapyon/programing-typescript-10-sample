@@ -19,4 +19,10 @@ $ node hello.js
 ```
 
 
+tsconfig.jsonを作る
+
+```
+$ npx tsc --init
+```
+
 
